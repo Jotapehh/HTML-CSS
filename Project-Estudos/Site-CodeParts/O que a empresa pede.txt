@@ -1,0 +1,38 @@
+Bem-vindo à "Code Parts", uma empresa de desenvolvimento de jogos apaixonada por criar experiências únicas e envolventes para os jogadores de todo o mundo! Estamos emocionados por tê-lo como parte de nossa equipe para desenvolver nosso site oficial. Vamos definir os principais elementos e informações que devem ser incluídos no site:
+
+1. Página inicial:
+   - Apresente uma imagem atraente relacionada a jogos e que represente nossa identidade como empresa.
+   - Uma breve descrição da "Code Parts", destacando nosso compromisso com a excelência no desenvolvimento de jogos e a paixão pela criação de entretenimento de alta qualidade.
+   - Destaque dos nossos jogos mais populares, com capturas de tela, trailers e links para mais informações.
+
+2. Sobre nós:
+   - Uma seção detalhada que conta a história da empresa, desde a fundação até o momento atual.
+   - Destaque nossa equipe de desenvolvedores experientes e criativos, com uma breve biografia e foto de cada membro.
+
+3. Nossos Jogos:
+   - Uma galeria com nossos jogos mais recentes e relevantes, cada um com sua própria página individual detalhando sua jogabilidade, história e recursos únicos.
+   - Inclua links para download ou compra dos jogos, se aplicável.
+
+4. Blog e Notícias:
+   - Mantenha nossos fãs e visitantes atualizados com um blog regularmente atualizado, onde podemos compartilhar atualizações sobre projetos em andamento, anúncios de novos jogos, eventos e muito mais.
+
+5. Suporte ao Cliente:
+   - Forneça uma página dedicada ao suporte ao cliente, onde os jogadores possam relatar problemas, fazer perguntas e encontrar soluções para suas dúvidas.
+
+6. Carreiras:
+   - Uma seção onde publicamos vagas de emprego e estágios disponíveis na empresa, incentivando talentos do setor a se juntarem à nossa equipe.
+
+7. Contato:
+   - Informações de contato da empresa, como endereço de e-mail, telefone e um formulário de contato para consultas gerais.
+
+8. Redes Sociais:
+   - Integre links para nossos perfis de mídia social para que os usuários possam nos seguir e ficar atualizados com nossas atividades.
+
+Design:
+- O design do site deve ser moderno, atraente e amigável, com um esquema de cores que reflita nossa marca.
+- Certifique-se de que o site seja responsivo, para que os usuários possam acessá-lo facilmente em dispositivos móveis e tablets.
+- Use imagens e gráficos de alta qualidade para atrair a atenção dos visitantes.
+
+Lembre-se de focar na usabilidade e na experiência do usuário para garantir que o site seja fácil de navegar e que os visitantes encontrem todas as informações relevantes. Esteja aberto a receber feedback e fazer ajustes durante o processo de desenvolvimento.
+
+Estamos ansiosos para ver sua criatividade e talento em ação na criação do site da "Code Parts"! Seja bem-vindo à nossa equipe e boa sorte no projeto.

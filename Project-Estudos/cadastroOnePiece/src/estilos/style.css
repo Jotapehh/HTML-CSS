@@ -1,0 +1,86 @@
+@charset "UTF-8";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap');
+@font-face {
+    font-family: 'lovelo';
+    src: url(../fonts/Lovelo\ Black.otf)format(opentype);
+}
+
+body{
+    background-color: #1C1C1C;
+    color: white;
+}
+
+section#box-window{
+
+    background-color: rgba(255, 255, 255, 0.322);
+    border-radius: 15px;
+
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.829);
+    backdrop-filter: blur( 13.5px );
+    -webkit-backdrop-filter: blur( 13.5px );
+
+    width: 300px;
+    height: 580px;
+}
+section#container-display1{
+    text-align: center;
+    padding: 1em;
+    width: 63%;
+}
+section#container-display2{
+    position: sticky;
+}
+
+form{
+    background-color: whitesmoke;
+    color: black;
+    text-align: left;
+
+    box-shadow: 1px 1px 25px 10px rgba(0, 0, 0, 0.699);
+
+    width: 20em;
+    height: 28em;
+
+    padding: 20px;
+    margin: auto;
+
+    border-radius: 25px;
+
+}
+form>p{
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 1px;
+}
+
+form>input{
+    text-align: center;
+
+    width: 100%;
+    height: 3em;
+
+    padding-left: 4px;
+    margin-bottom: 35px;
+
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 10px;
+
+}
+
+h1{
+    font-family: 'lovelo', sans-serif;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+img{
+    height: 662px;
+}
+
+p#rodape{
+    font-family: 'lovelo', 'Oswald', sans-serif;
+}

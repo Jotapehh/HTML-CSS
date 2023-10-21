@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudo Classes</title>
+    <style>
+        div{
+            display: inline-block;
+            background-color: lightgray;
+            text-align: center;
+
+            border: 1px solid black;
+            height: 100px;
+            width: 150px;
+            margin-top: 20px;
+        }
+
+        div>p{
+            visibility: hidden;
+        }
+        div:hover > p{
+            visibility: visible;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        01
+        <p>Oi</p>
+    </div>
+    <div>
+        02
+        <p>Tudo</p>
+    </div>
+    <div>
+        03
+        <p>Bem?</p>
+    </div>
+</body>
+</html>

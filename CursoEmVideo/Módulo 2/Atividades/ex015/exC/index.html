@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        a{
+            color: red;
+            text-decoration: none;
+        }
+        a:hover{
+            color: black;
+            text-decoration: underline;
+            font-weight: bold;
+        }
+        a:visited{
+            color: #8d0404;
+        }
+
+        a::before{
+            content: '\203A  ';
+        }
+        a::after{
+            content: ' \2039';
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Personalizando links</h1>
+    <ul>
+        <li><a href="#">GitHub</a></li>
+        <li><a href="#">Instagram</a></li>
+        <li><a href="#">YouTube</a></li>
+    </ul>
+</body>
+</html>
